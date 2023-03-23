@@ -1,0 +1,209 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ } body {
+     font-family: sans-serif;
+ } 
+.nav1 {
+    height: 100px;
+    width: 100%;
+} .navhead {
+   display: flex;
+   align-items: center;
+} .navul > ul {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    color: rgb(61, 123, 236);
+    margin-left: 45%;
+    gap: 20px;
+} .navmain {
+    width: 80%;
+    margin: 0 auto ;
+} .navul > ul > li > button {
+    background-color: rgb(22, 106, 185);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 80px;
+    height: 30px;
+    padding: 10px 14px;
+} .navlast > hr {
+   margin-top: 15px;
+   color: #dadada ;
+} 
+
+
+.border {
+    height: 50px;
+    width: 100%;
+    background-color: rgb(156, 152, 152);
+    box-shadow: 0px 10px 8px 0px rgba(34, 60, 80, 0.2) inset;
+} 
+
+/* nav2 */
+.nav2 {
+    height: 50px;
+    width: 100%;
+} .navul2 {
+  width: 60%;
+  margin-left: 40%;
+  margin-top: 30px;
+
+} .navul2 > ul {
+    display: flex;
+    align-items: center;
+      color: rgb(61, 123, 236);
+      list-style: none;
+      gap: 50px;
+} .navul2 > ul > li > button {
+    background-color: rgb(22, 106, 185);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 80px;
+    height: 30px;
+    padding: 10px 14px;
+} 
+/* nav3 */
+
+.nav3 {
+    height: 100px;
+    width: 100%;
+} .navhead {
+   display: flex;
+   align-items: center;
+} .navul3 > ul {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    color: black;
+    margin-left: 30%;
+    gap: 20px; }
+    .class1 {
+        color: gray;
+    } .button1 {
+        border: 1px solid rgb(22, 106, 185) ;
+        border-radius: 5px;
+        width: 80px;
+        height: 30px;
+        padding: 10px 14px;
+        color: rgb(22, 106, 185) ;
+        font-size: 20px;
+    } .button1:hover {
+ 
+      background-color: rgb(22, 106, 185) ;
+      color: white;
+      cursor: pointer;
+
+    } .button2 {
+        border-radius: 5px;
+        width: 80px;
+        height: 30px;
+        padding: 10px 14px;
+        font-size: 20px;
+        color: white;
+        background-color: rgb(22, 106, 185) ;
+    } .button2:hover {
+        cursor: pointer;
+        background-color: rgba(11, 71, 238, 0.568);
+    }  .navlast3 > hr {
+        margin-bottom: 10px;
+        color: #dadada ;
+
+    } 
+
+    /* nav4 */
+    .nav4 {
+        width: 100%;
+        height: 100px;
+        background-color: rgb(31, 31, 32);
+        display: flex;
+        align-items: center;
+    } .navul4 > ul {
+        display: flex;
+        align-items: center;
+
+        list-style: none;
+        color: black;
+        margin-left: 10%;
+        gap: 20px; }
+        .veryneed {
+            display: flex;
+            align-items: center;
+
+        } .veryneed > input {
+            width: 200px;
+            background-color: rgb(31, 31, 32) ;
+            color:gray;
+            border-color:gray;
+            height:35px;
+            border-radius:10px;
+        } .button3 {
+            border-radius: 5px;
+            width: 80px;
+            height: 30px;
+            padding: 10px 14px;
+            font-size: 20px;
+            color: white;
+            background-color: rgb(31, 31, 32) ;
+           border-color: white;
+        
+        } .button3:hover {
+        background-color: white ;
+        color: rgb(31, 31, 32);
+
+        } .button4 {
+            border-radius: 5px;
+            width: 80px;
+            height: 30px;
+            padding: 10px 14px;
+            font-size: 20px;
+            color: white;
+            background-color: gold ;
+           border-color: rgb(31, 31, 32) ;
+
+        } .button4:hover {
+            background-color: rgb(211, 203, 203) ;
+           
+    
+            }
+            /* nav5 */
+
+   .veryneed2 > img {
+   width: 30px;
+   height: 30px;
+   border-radius: 50%;
+
+  } .nav5 {
+    height: 50px;
+    width: 100%;
+   
+} .navul5 {
+  width: 100%;
+
+  margin-top: 30px;
+
+} .navul5 > ul {
+  
+      color: rgb(61, 123, 236);
+      list-style: none;
+      gap: 50px;
+      display: flex;
+      align-items: center;
+} .navul5 > ul > li > button {
+    background-color: rgb(22, 106, 185);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 80px;
+    height: 30px;
+    padding: 10px 14px;
+} .navul5 {
+    display: flex;
+    align-items: center;
+} .veryneed2 {
+    display: flex;
+    align-items: center;
+}
